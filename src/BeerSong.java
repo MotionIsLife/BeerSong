@@ -15,7 +15,7 @@ public class BeerSong {
             System.out.println("Пусти по кругу.");
             beerNum = beerNum - 1;
             if (beerNum > 0) {
-                System.out.println(beerNum + " " + word + " пива на стене");
+                System.out.println(beerNum + " " + word + " пива на стене");//test
                 switch (word = "бутылка") {
                 }
                 } else {
